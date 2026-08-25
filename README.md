@@ -65,29 +65,9 @@ In addition to software development, I have technical knowledge in computer syst
 # 📊 GitHub Statistics
 
 <p align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerqh&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=wilmerqh&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wilmerqh&hide_border=true"
-    alt="Wilmer's GitHub Activity Graph"
   />
 </p>
 
