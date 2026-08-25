@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077B6&height=170&section=header&animation=fadeIn" width="100%" alt="Profile Banner"/>
+</p>
+
 # Wilmer Quim
 
 ### Full Stack Developer · Computer Technician · Technology Enthusiast
